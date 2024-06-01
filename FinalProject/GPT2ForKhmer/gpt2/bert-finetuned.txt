@@ -1,0 +1,8 @@
+SLURM JOB ID: 675143
+Epoch 1 Training Average Loss: 0.5359
+Epoch 1 Validation Average Loss: 0.7381
+Epoch 2 Training Average Loss: 0.5915
+Epoch 2 Validation Average Loss: 0.3119
+Epoch 3 Training Average Loss: 0.2711
+Epoch 3 Validation Average Loss: 0.5419
+pretrain done
